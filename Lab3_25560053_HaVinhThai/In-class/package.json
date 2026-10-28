@@ -1,0 +1,21 @@
+{
+  "name": "lab3_25560053_havinhthai",
+  "version": "1.0.0",
+  "description": "Lab 3 in-class: RESTful Products & Categories API with Express, Mongoose and Swagger",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
