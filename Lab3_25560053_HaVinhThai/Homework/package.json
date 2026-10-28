@@ -1,0 +1,22 @@
+{
+  "name": "lab3_25560053_havinhthai_homework",
+  "version": "1.0.0",
+  "description": "Lab 3 homework: Orders & Inventory Management API with Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "db:init": "node scripts/init-db.js",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
