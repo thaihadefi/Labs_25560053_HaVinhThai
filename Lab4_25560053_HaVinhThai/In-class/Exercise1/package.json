@@ -1,0 +1,17 @@
+{
+  "name": "lab4_25560053_havinhthai_exercise1",
+  "version": "1.0.0",
+  "description": "Lab 4 exercise 1: CORS-enabled Products CRUD API with a Fetch API web client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
