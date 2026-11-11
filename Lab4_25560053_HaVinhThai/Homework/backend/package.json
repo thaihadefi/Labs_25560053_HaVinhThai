@@ -1,0 +1,23 @@
+{
+  "name": "lab4_25560053_havinhthai_homework",
+  "version": "1.0.0",
+  "description": "Lab 4 homework: ShopAdmin REST API with MongoDB, JWT auth, bcrypt and Multer avatars",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.1",
+    "multer": "^2.5.0"
+  }
+}
