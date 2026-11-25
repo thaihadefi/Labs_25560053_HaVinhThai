@@ -1,0 +1,25 @@
+{
+  "name": "lab5_25560053_havinhthai_exercise2_3",
+  "version": "1.0.0",
+  "description": "Lab 5 exercises 2-3: ShopAdmin API with Socket.IO real-time updates and node-cron jobs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.1",
+    "multer": "^2.5.0",
+    "node-cron": "^4.6.0",
+    "socket.io": "^4.8.4"
+  }
+}
